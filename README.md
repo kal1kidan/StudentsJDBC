@@ -7,7 +7,7 @@
 |---|---|
 | **Name** | Kalkidan Asdesach |
 | **ID** | UGR/5481/16 |
-| **Stream** | Software Engineering, 4th Year |
+| **Stream** | Software , 4th Year |
 | **Course** | Enterprise Application Development |
 | **University** | Addis Ababa University |
 
